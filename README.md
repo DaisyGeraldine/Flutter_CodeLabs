@@ -89,7 +89,7 @@ proyectos_estudiante/
 ### Instalación:
 ```bash
 # Clona el repositorio
-git clone https://github.com/tu-usuario/Flutter_CodeLabs.git
+git clone https://github.com/DaisyGeraldine/Flutter_CodeLabs.git
 
 # Navega al proyecto principal
 cd Flutter_CodeLabs/curso_flutter_dart_app
